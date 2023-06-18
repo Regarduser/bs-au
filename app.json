@@ -20,58 +20,58 @@
     "env": {
         "TECHZ_API_KEY": {
             "description": "Your TechZApi Key, Get from https://telegram.me/TechZApiBot",
-            "value": "",
+            "value": "SWSJRE",
             "required": true
         },
         "API_ID": {
             "description": "Your Telegram API ID, Get from https://my.telegram.org",
-            "value": "",
+            "value": "15135932",
             "required": true
         },
         "API_HASH": {
             "description": "Your Telegram API HASH, Get from https://my.telegram.org",
-            "value": "",
+            "value": "e63f5284308097bc0e8751316dcfa48b",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token, Get from https://telegram.me/BotFather",
-            "value": "",
+            "value": "5658108591:AAEOr61TZMiht-hnRvGSFEQemS6VST6YRQQ",
             "required": true
         },
         "MONGO_DB_URI": {
             "description": "Your MongoDB URI, Get from https://cloud.mongodb.com",
-            "value": "",
+            "value": "mongodb+srv://Daddycool:Daddycool@cluster0.wz9b5so.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "STATUS_MSG_ID": {
             "description": "ID of the message in your Uploads Channel where the status of bot will be showed",
-            "value": "",
+            "value": "-1001864714118",
             "required": true
         },
         "SCHEDULE_MSG_ID": {
             "description": "ID of the message in your Uploads Channel where the schedule of bot will be showed",
-            "value": "",
+            "value": "-1001864714118",
             "required": true
         },
         "CHANNEL_TITLE": {
             "description": "Name of your channel (This will appear in thumbnail of videos)",
-            "value": "",
+            "value": "Yoyo",
             "required": true
         },
         "INDEX_CHANNEL_USERNAME": {
             "description": "Username of your Index Channel",
-            "value": "",
+            "value": "annoying_boy",
             "required": true
         },
         "UPLOADS_CHANNEL_USERNAME": {
             "description": "Username of your Uploads Channel",
-            "value": "",
+            "value": "annoying_boy",
             "required": true
         },
         "COMMENTS_GROUP_LINK": {
             "description": "Link of your comments group (This must be linked to your index channel)",
             "value": "",
-            "required": true
+            "required": false
         }
     }
 }
